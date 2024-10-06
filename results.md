@@ -1,5 +1,6 @@
 # GameResults (Data: 2024-10-05)
 
+```
 Game 1:
 Gues num: 39
 -----------------------
